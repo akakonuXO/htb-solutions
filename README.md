@@ -1,4 +1,6 @@
-Faraday -> FARADAY{ehlo_@nd_w3lcom3!}
+some ascii might be formatted wrong as i didnt copy the emojis over
+
+```Faraday -> FARADAY{ehlo_@nd_w3lcom3!}
 Faraday 2 -> FARADAY{7x7_1s_n0t_@lw4ys_49}
 Faraday 3 -> FARADAY{d0ubl3_@nd_f1o@t_be@uty}
 Faraday 4 -> FARADAY{@cc3ss_10gz_c4n_b3_use3fu111}
@@ -300,3 +302,30 @@ TwoDots horror -> HTB{Unit3d_d0ts_0f_p0lygl0t}
 Expressional rebel -> HTB{b4cKtR4ck1ng_4Nd_P4rs3Rs_4r3_fuNnY}
 ImageTok -> HTB{I_34T_ph4r_c3r34L_4nD_g0ph3r_f0r_br34kf4st_4nd_d1nn3r}
 BoneChewerCon -> HTB{CSP_aint_got_nothing_on_me!}
+RLotto -> HTB{n3v3r_u53_pr3d1c74bl3_533d5_1n_p53ud0-r4nd0m_numb3r_63n3r470r}
+Space -> HTB{sh3llc0de_1n_7h3_5p4c3}
+Dream Diary: Chapter 4 -> HTB{tC@$h_$t@$h_UnL1nK+w1tH_sM@llB1nS&sC@nF&r3tF==@bs0lute_0wN@g3}
+No return -> HTB{y0uv3_35c4p3d_7h3_v01d_0f_n0_r37urn}
+Modern typer -> HTB{wh0_kn3w_inc0rrect_typing_w4s_explo1table?!?}
+TwoForOne -> HTB{C0mmon_M0dUlu5S_1S_b4D}
+Nuclear Sale -> HTB{s3cr3t_sh4r1ng_w1th_x0r_15_l4m3}
+Luna Crypt -> HTB{Lun4_Lu4_L4t1n_M00n}
+quick maffs -> HTB{5h0u1d_1t_b3_und3r_RSA_c4t3g0ry_0r_und3r_m4ths_c4t3g0ry?,1dk!but_gb_is_c00l}
+mysterybox -> HTB{3mpl0y33s_mu5t_h45h_4ll_m3554g3s_b3f0r3_l00k1ng_4t_th3m_t0_pr3v3nt_bl1ndn3ss}
+signup -> HTB{Sh4r3d_K_1s_n0t_A_g00d_S1gninG_Id3a}
+abusehumandb -> HTB{5w33t_ali3ndr3n_0f_min3!}
+Vipere -> HTB{cr0iss4nts_ch0c0_hmmmm}
+Birds of randomness -> HTB{PRNGs,math,ECC_and_crypto_>love.Love_is_pain}
+Prison escape -> HTB{Pr1s0n_3$c4p3_n0t_s0_34sy!!1337!!}
+PersistenceIsFutile -> HTB{7tr3@t_hUntIng_4TW}
+Fibopadcci -> HTB{cU5t0m_p4dd1Ng_w0nT_s4v3_y0u_tH1s_T1m3:(!@}
+Composition -> HTB{Pr1M3_Pr0x1mIty_@nD_C0mP0s1T3_CuRv3?????=>s0_1nS3cUr3!!!}
+emo -> HTB{4n0th3R_d4Y_AnoThEr_pH1Sh}
+Red failure -> HTB{00000ps_1_t0t4lly_f0rg0t_1t}
+Trace -> HTB{MU171P13X1N9_4ND_PC85_FUND1M3N7415_37}
+SeeTheSharpFlag -> HTB{MyPasswordIsVerySecure}
+Project power -> HTB{51d3_ch4nn31_c4n_8234k_3v3n_7h3_m057_53cu23_d3v1c35!@^5%2}
+Partial encryption -> HTB{W3iRd_RUnT1m3_DEC}
+vmcrack -> HTB{V1RTU4L_M4CH1N35_G035_BRRRRRR!11!1!1!}
+Hackybird -> HTB{game_h3kk1n_is_funsies!}
+nginxatsu -> HTB{PD0's_br34th1ng_1nt3s1f13s!}```
