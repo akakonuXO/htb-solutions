@@ -1,4 +1,8 @@
-some ascii might be formatted wrong as i didnt copy the emojis over
+some ascii might be formatted wrong as i didnt copy the emojis over. 
+
+350 flags. sorry guys, all i have saved. :) rest are done but i didnt keep the flags. i would redo it for some money though if interested ;p
+
+also if ur gonna just copy them dont instant paste it as htb will ban u retards.
 
 ```Faraday -> FARADAY{ehlo_@nd_w3lcom3!}
 Faraday 2 -> FARADAY{7x7_1s_n0t_@lw4ys_49}
